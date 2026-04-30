@@ -1,6 +1,8 @@
 # Introduction
 Hello! I'm sei.
+
 (1104 is my birth day.I'm using just handle name)
+
 I'm studying computer science at university
 
 # Enviroment
@@ -16,15 +18,16 @@ Terminal: ghostty 1.3.1-arch2
 
 # Tech stack
 I have no idea what to write here.
+
 I can write some code, but I can't really say out loud, "I CAN USE THIS LANGUAGE!"
 
-## language
-C
-JavaScript
-Lua
-Rust
+# language
+- C
+- JavaScript
+- Lua
+- Rust
 
 # Hobbies
-Linux Desktop
-Home labbing
-Modded Minecraft
+- Linux Desktop
+- Home labbing
+- Modded Minecraft
