@@ -1,7 +1,7 @@
 # Introduction
 Hello! I'm sei.
 
-(1104 is my birth day.I'm using just handle name)
+(1104 is my birthday. I'm just using a handle name)
 
 I'm studying computer science at university
 
@@ -16,12 +16,7 @@ WM: Hyprland 0.54.3 (Wayland)
 Terminal: ghostty 1.3.1-arch2
 ```
 
-# Tech stack
-I have no idea what to write here.
-
-I can write some code, but I can't really say out loud, "I CAN USE THIS LANGUAGE!"
-
-# language
+# Language
 - C
 - JavaScript
 - Lua
